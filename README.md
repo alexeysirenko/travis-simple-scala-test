@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/alexeysirenko/travis-simple-scala-test.svg?branch=master)](https://travis-ci.org/alexeysirenko/travis-simple-scala-test)
